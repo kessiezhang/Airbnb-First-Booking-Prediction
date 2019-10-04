@@ -35,8 +35,5 @@ https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
 #### Visualization:
 <img width="1025" alt="Screen Shot 2019-10-04 at 2 12 30 PM" src="https://user-images.githubusercontent.com/44122973/66240326-35ef8400-e6b1-11e9-9afb-6379f87ac4b7.png">
 
-
-![image](https://user-images.githubusercontent.com/44122973/66240481-9d0d3880-e6b1-11e9-885d-cd88254ead60.png)
-
-
+#### Best Result:
 <img width="813" alt="Screen Shot 2019-10-04 at 2 12 41 PM" src="https://user-images.githubusercontent.com/44122973/66240395-63d4c880-e6b1-11e9-8f8d-cdb3ad0bc0bc.png">
