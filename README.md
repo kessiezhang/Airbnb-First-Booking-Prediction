@@ -33,9 +33,10 @@ This will open the Jupyter Notebook software and project file in your browser.
 https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
 
 #### Visualization:
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/44122973/66243676-448e6900-e6ba-11e9-90f3-c30b44b65a8c.gif)
+
 <img width="1025" alt="Screen Shot 2019-10-04 at 2 12 30 PM" src="https://user-images.githubusercontent.com/44122973/66240326-35ef8400-e6b1-11e9-9afb-6379f87ac4b7.png">
-
-
 
 
 <img width="813" alt="Screen Shot 2019-10-04 at 2 12 41 PM" src="https://user-images.githubusercontent.com/44122973/66240395-63d4c880-e6b1-11e9-8f8d-cdb3ad0bc0bc.png">
