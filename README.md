@@ -29,9 +29,9 @@ Model Building.ipynb
 
 This will open the Jupyter Notebook software and project file in your browser.
 
-#### Data:
+### Data:
 https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
 
-#### Visualization:
+### Visualization:
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/44122973/66243676-448e6900-e6ba-11e9-90f3-c30b44b65a8c.gif)
